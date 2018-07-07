@@ -17,6 +17,7 @@ import modules.FlightResultsDisplay;
 import apiCall.GETapi;
 import apiCall.HttpClientExample;
 import apiCall.HttpPostExample;
+import apiCall.PackitFlowAPI;
 import modules.PackitAdditionalServicesModules;
 import modules.PassengerDetailsDisplay;
 import modules.SignInAction;
@@ -45,6 +46,10 @@ public class FlightResultsDisplaySteps {
 		PageFactory.initElements(driver, PackitSearchPage.class);
 //		GETapi.getService(driver);
 		UserEnterFlightDetails.Execute(driver, datamap);
+		System.out.println("_______________Verify the packitflow API response____________");
+		PackitFlowAPI.getSession(driver);
+	
+		PackitFlowAPI.getCustomerRegistry(driver);
 	}
 
 	@Then("^I verify results page$")

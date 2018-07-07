@@ -36,10 +36,9 @@ public class UserEnterFlightDetails {
 		String requiredString = StringUtils.substringBetween(packitSessionId,"%22","%22");
 		System.out.println("Session id final is:++++++++++++++++++++++"+requiredString);
 		Log.log.info("session id is"+requiredString);
-		return requiredString;
-		
-		
+		return requiredString;		
 	}
+	
 	public static void Execute(WebDriver driver,List<HashMap<String,String>> map) throws Exception{
 		
 		CommonMethods.waitforelement(PackitSearchPage.from_origin);

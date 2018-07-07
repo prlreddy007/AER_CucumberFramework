@@ -8,17 +8,22 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.concurrent.ExecutorService;
 
+import org.apache.commons.lang.StringUtils;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.eclipse.jetty.websocket.common.io.payload.PayloadProcessor;
+import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.junit.Assert;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.SessionId;
+import org.openqa.selenium.remote.server.handler.GetScreenOrientation;
 import org.testng.Reporter;
 
 import helpers.Log;
@@ -40,7 +45,7 @@ public class PackitFlowAPI {
 	   //Global variables
 	   static  String calculationoptionIs;
 	   static double flatFee;
-	   static String sessionId= UserEnterFlightDetails.getSession(driver);
+	 public static String sessionId="";
 	   static String faresearchId;
 	   static String fareId="";
 	   static String shoppingCartId="";
@@ -50,7 +55,7 @@ public class PackitFlowAPI {
        
 	  //API URLs 
 	   
-	   static String customerRegistry = apiEnvironment + sessionId + "/customerRegistry";
+//	 public static String customerRegistry = apiEnvironment + sessionId + "/customerRegistry";
 	   static String calculation = apiEnvironment + sessionId + "/configuration/calculation";
 	   static String availableFare = apiEnvironment + sessionId + "/availableFare";
 	   static String availableFare_faresearchId = apiEnvironment + sessionId + "/availableFare"+faresearchId;
@@ -59,6 +64,18 @@ public class PackitFlowAPI {
 	   static String itemsDetail = apiEnvironment + sessionId + "/shoppingCart/"+ shoppingCartId+"/items/detail";
 	   
 	   
+	   public static String getSession(WebDriver driver) {
+			SessionId session = ((ChromeDriver)driver).getSessionId();
+//			SessionId session = ((FirefoxDriver)driver).getSessionId();
+			System.out.println("Session id:+++++++++++++++++++++++++++++++++++ " + session.toString());
+			String packitSessionId=driver.manage().getCookieNamed("aer-session-id").toString();
+			System.out.println("packit Session id:+++++++++++++++++++++++++++++++++++ "+packitSessionId);		
+			String requiredString = StringUtils.substringBetween(packitSessionId,"%22","%22");
+			System.out.println("Session id final is:++++++++++++++++++++++"+requiredString);
+			Log.log.info("session id is"+requiredString);
+			sessionId=requiredString;
+			return requiredString;		
+		}
 	   public static StringBuffer getAPI(String nameOfTheAPIService) throws Throwable, IOException 
 	   {
 	           HttpClient client=HttpClientBuilder.create().build();
@@ -108,6 +125,18 @@ public class PackitFlowAPI {
 	      return result;
 		}
 	   
+	   public static String jsonParser(JSONObject jsonObjectToParse, String requiredKeyName)
+	    {
+	     Object obj=jsonObjectToParse;
+	     for(String s: requiredKeyName.split("/"))
+	      if(!s.isEmpty())
+	       if(!(s.contains("[")) || s.contains("]"))
+	                      obj=  ((JSONObject) obj).get(s);
+	                      else if(s.contains("[") || s.contains("]"))
+	                      obj =((JSONArray)((JSONObject) obj).get(s.split("\\[")[0])).get(Integer.parseInt(s.split("\\[")[1].replace("]","")));
+	     return obj.toString();
+	  
+	    }
 	   
 	   public static void getCalculation(WebDriver driver) throws IOException, Throwable 
 	   {
@@ -179,6 +208,8 @@ public class PackitFlowAPI {
 	   
 	   public static void getCustomerRegistry(WebDriver driver) throws IOException, Throwable
 	   {
+		   String customerRegistry = apiEnvironment + sessionId + "/customerRegistry";
+		   System.out.println("CR service is:  "+customerRegistry);
 		   StringBuffer result=getAPI(customerRegistry);
            
 		   System.out.println("reponse is +++++++++:/n"+result);
@@ -186,16 +217,18 @@ public class PackitFlowAPI {
            //Need to add json jar file to instantiate JSONobject
            JSONObject  jsonObj = new JSONObject(result.toString());
            JSONObject cRegistry=jsonObj.getJSONObject("customerRegistry");
-           JSONObject airlineblacked=cRegistry.getJSONArray("airlineBlackList").getJSONObject(0);
+//           JSONObject airlineblacked=cRegistry.getJSONArray("airlineBlackList").getJSONObject(0);
           // JSONArray data = jsonObj.getJSONArray("airlineBlackList");
    
-           System.out.println("json object response is :++++++++"+jsonObj);
-           
-           System.out.println("Agent id is:+++++++++++++ "+jsonObj.get("agencyID"));
-           System.out.println("weblogid is:+++++++++++++ "+jsonObj.get("webServiceLogID"));
-           System.out.println("conso id is:+++++++++++++ "+cRegistry.getString("consoID"));
-           System.out.println("airline code blacked list is:+++++++++++++ "+airlineblacked.getString("code"));
-           
+//           System.out.println("json object response is :++++++++"+jsonObj);
+//           
+//           System.out.println("Agent id is:+++++++++++++ "+jsonObj.get("agencyID"));
+//           System.out.println("weblogid is:+++++++++++++ "+jsonObj.get("webServiceLogID"));
+//           System.out.println("conso id is:+++++++++++++ "+cRegistry.getString("consoID"));
+//           System.out.println("airline code blacked list is:+++++++++++++ "+airlineblacked.getString("code"));
+//           
+           Log.log.info("email address is by new parser method:+++++++++++++ "+jsonParser(cRegistry.getJSONObject("agencyAddress").getJSONObject("emailAddress"),"/value"));
+           Log.log.info("email address is by new parser method2:+++++++++++++ "+jsonParser(cRegistry,"/agencyAddress/emailAddress/value"));
            JSONObject airlineWhite=cRegistry.getJSONArray("airlineWhiteList").getJSONObject(0);
            System.out.println("Airline code whitelist is:+++++++++++++ "+airlineWhite.getString("name"));
 		   
