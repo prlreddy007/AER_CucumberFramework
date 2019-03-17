@@ -16,3 +16,4 @@ Feature: Verify flight details in results
   Then I verify the price details
   Then I click on flight row expand button
   
+  

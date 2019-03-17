@@ -1,7 +1,6 @@
 package step_definitions;
 
 import org.junit.runner.RunWith;
-
 import com.github.mkolisnyk.cucumber.runner.ExtendedCucumberOptions;
 import com.github.mkolisnyk.cucumber.runner.ExtendedCucumberOptionList;
 import cucumber.api.CucumberOptions;
@@ -30,18 +29,18 @@ import com.github.mkolisnyk.cucumber.runner.ExtendedCucumber;
 		)
 @CucumberOptions(
 		features = {"classpath:features"},
-    //dd
 		glue = "classpath:step_definitions",
 		plugin ={"html:target/cucumber-html-report", "json:target/cucumber.json", "pretty:target/cucumber-pretty.txt", "usage:target/cucumber-usage.json",
         "junit:target/cucumber-results.xml"},
 			
-			monochrome = true,
+			monochrome = true
 		     
 	//	{"pretty", "html:target/cucumber"},
 		//dryRun=true,
 			//Here in tags we will define tags with which scenario has to execute and which are not
-		tags = {"@SmokeTest,@RegressionTest",}
+//		tags = {"@SmokeTest,@RegressionTest",}
 		)
 public class RunCukesTest extends AbstractTestNGCucumberTests{
 	
 }
+

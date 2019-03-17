@@ -45,7 +45,6 @@ public class FlightResultsDisplay {
 //			Reporter.log("Flight Results are not  displayed");
 
 		}
-		
-		
+				
 	}
 }

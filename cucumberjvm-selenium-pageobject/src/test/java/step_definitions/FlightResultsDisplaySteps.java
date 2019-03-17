@@ -4,6 +4,8 @@ import java.util.HashMap;
 import java.util.List;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
+
+import cucumber.api.DataTable;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
@@ -130,10 +132,6 @@ public class FlightResultsDisplaySteps {
 		PageFactory.initElements(driver, PackitResultsPage.class);
 		FlightResults.verifyFlightResultsSorting(driver, PackitResultsPage.listOfPriceOnEachFare);
 	}
-
-
-
-
 
     
 }

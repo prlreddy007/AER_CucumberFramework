@@ -31,7 +31,7 @@ public class Hooks{
     	System.out.println("Called openBrowser");
 //    	System.setProperty("webdriver.gecko.driver","D:\\Eclipse-Oxygen//geckodriver.exe");
     	//webdriver.firefox.marionette
-    	System.setProperty("webdriver.chrome.driver", "E:\\Eclipse oxygen\\chromedriver.exe");
+    	System.setProperty("webdriver.chrome.driver", "F:\\Eclipse oxygen\\chromedriver.exe");
 
     	//    	ProfilesIni profile = new ProfilesIni();
     	// this will create an object for the Firefox profile
@@ -44,7 +44,7 @@ public class Hooks{
 //       	driver = new FirefoxDriver();
     	driver = new ChromeDriver();
     	driver.manage().deleteAllCookies();
-    	driver.manage().window().maximize();
+//    	driver.manage().window().maximize();
     	}
     }
 
