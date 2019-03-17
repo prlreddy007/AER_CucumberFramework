@@ -1,0 +1,664 @@
+2018-06-21 22:20:32,320 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-21 22:20:32,799 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-21 22:20:38,310 - org.apache.log4j.Logger -INFO - session id islcbdc7f4ata21tnjh47cpacfpi
+2018-06-21 22:20:39,927 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-21 22:20:40,292 - org.apache.log4j.Logger -INFO - session id islcbdc7f4ata21tnjh47cpacfpi
+2018-06-21 22:20:40,375 - org.apache.log4j.Logger -INFO - session id islcbdc7f4ata21tnjh47cpacfpi
+2018-06-21 22:20:41,300 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (a781b68bdf91e6af4c1ee9f147e8c624)] -> xpath: (//input[@name='airport'])[1]] is 130
+2018-06-21 22:20:41,517 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (a781b68bdf91e6af4c1ee9f147e8c624)] -> xpath: (//input[@name='airport'])[1]] is 87
+2018-06-21 22:20:45,561 - org.apache.log4j.Logger -INFO - session id islcbdc7f4ata21tnjh47cpacfpi
+2018-06-21 22:21:03,245 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-06-21 22:21:04,255 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (a781b68bdf91e6af4c1ee9f147e8c624)] -> xpath: //img[@title='Later']] is 685
+2018-06-21 22:21:04,559 - org.apache.log4j.Logger -INFO - Farerules icon is  identified
+2018-06-21 22:21:10,416 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (a781b68bdf91e6af4c1ee9f147e8c624)] -> xpath: //div[@class='packit-close-block']/button] is 4082
+2018-06-21 22:23:15,991 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-21 22:23:16,172 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-21 22:23:21,695 - org.apache.log4j.Logger -INFO - session id isblcukno8f61a678va436gk1lkt
+2018-06-21 22:23:22,754 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-21 22:23:23,161 - org.apache.log4j.Logger -INFO - session id isblcukno8f61a678va436gk1lkt
+2018-06-21 22:23:23,234 - org.apache.log4j.Logger -INFO - session id isblcukno8f61a678va436gk1lkt
+2018-06-21 22:23:24,103 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (7c2170b9582cc8aa58e246d023958f1d)] -> xpath: (//input[@name='airport'])[1]] is 98
+2018-06-21 22:23:24,253 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (7c2170b9582cc8aa58e246d023958f1d)] -> xpath: (//input[@name='airport'])[1]] is 65
+2018-06-21 22:23:28,274 - org.apache.log4j.Logger -INFO - session id isblcukno8f61a678va436gk1lkt
+2018-06-21 22:23:45,207 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-06-21 22:23:46,212 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (7c2170b9582cc8aa58e246d023958f1d)] -> xpath: //img[@title='Later']] is 690
+2018-06-21 22:23:46,483 - org.apache.log4j.Logger -INFO - Farerules icon is  identified
+2018-06-21 22:23:52,073 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (7c2170b9582cc8aa58e246d023958f1d)] -> xpath: //div[@class='packit-close-block']/button] is 3915
+2018-06-21 22:24:02,403 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-06-21 22:31:45,870 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-21 22:31:46,452 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-21 22:31:51,956 - org.apache.log4j.Logger -INFO - session id isnqj5pin62rvbu5p3pu282cam9l
+2018-06-21 22:31:53,202 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-21 22:31:53,617 - org.apache.log4j.Logger -INFO - session id isnqj5pin62rvbu5p3pu282cam9l
+2018-06-21 22:31:53,634 - org.apache.log4j.Logger -INFO - session id isnqj5pin62rvbu5p3pu282cam9l
+2018-06-21 22:31:54,508 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (bfee5f448470cb3761c76755e851e315)] -> xpath: (//input[@name='airport'])[1]] is 112
+2018-06-21 22:31:54,655 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (bfee5f448470cb3761c76755e851e315)] -> xpath: (//input[@name='airport'])[1]] is 72
+2018-06-21 22:31:58,761 - org.apache.log4j.Logger -INFO - session id isnqj5pin62rvbu5p3pu282cam9l
+2018-06-21 22:33:29,652 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-21 22:34:26,445 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-21 22:34:26,606 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-21 22:34:32,082 - org.apache.log4j.Logger -INFO - session id isa4d1a79su842l5r7ukuiqe5pnq
+2018-06-21 22:34:33,263 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-21 22:34:33,670 - org.apache.log4j.Logger -INFO - session id isa4d1a79su842l5r7ukuiqe5pnq
+2018-06-21 22:34:33,723 - org.apache.log4j.Logger -INFO - session id isa4d1a79su842l5r7ukuiqe5pnq
+2018-06-21 22:34:34,591 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (db0236a01cca78ea0908788aa0432d86)] -> xpath: (//input[@name='airport'])[1]] is 98
+2018-06-21 22:34:34,753 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (db0236a01cca78ea0908788aa0432d86)] -> xpath: (//input[@name='airport'])[1]] is 70
+2018-06-21 22:34:57,191 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-06-21 22:34:58,181 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (db0236a01cca78ea0908788aa0432d86)] -> xpath: //img[@title='Later']] is 665
+2018-06-21 22:34:58,460 - org.apache.log4j.Logger -INFO - Farerules icon is  identified
+2018-06-21 22:35:04,009 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (db0236a01cca78ea0908788aa0432d86)] -> xpath: //div[@class='packit-close-block']/button] is 3893
+2018-06-21 22:38:43,665 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-21 22:38:44,046 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-21 22:38:49,587 - org.apache.log4j.Logger -INFO - session id is7qf2dagbvao4nd9fc382qmso0u
+2018-06-21 22:38:50,650 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-21 22:38:51,050 - org.apache.log4j.Logger -INFO - session id is7qf2dagbvao4nd9fc382qmso0u
+2018-06-21 22:38:51,103 - org.apache.log4j.Logger -INFO - session id is7qf2dagbvao4nd9fc382qmso0u
+2018-06-21 22:38:52,472 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (36b47626c811be2619fda2fdcd469803)] -> xpath: (//input[@name='airport'])[1]] is 113
+2018-06-21 22:38:52,622 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (36b47626c811be2619fda2fdcd469803)] -> xpath: (//input[@name='airport'])[1]] is 60
+2018-06-21 22:42:58,816 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-21 22:42:58,994 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-21 22:43:04,510 - org.apache.log4j.Logger -INFO - session id ist9a09jkomuh3vtkfvdf6hm3kat
+2018-06-21 22:43:05,821 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-21 22:43:06,214 - org.apache.log4j.Logger -INFO - session id ist9a09jkomuh3vtkfvdf6hm3kat
+2018-06-21 22:43:06,244 - org.apache.log4j.Logger -INFO - session id ist9a09jkomuh3vtkfvdf6hm3kat
+2018-06-21 22:43:07,508 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (d1ee37e368ed239bf54c579f844b265c)] -> xpath: (//input[@name='airport'])[1]] is 117
+2018-06-21 22:43:07,638 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (d1ee37e368ed239bf54c579f844b265c)] -> xpath: (//input[@name='airport'])[1]] is 60
+2018-06-23 11:17:34,465 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 11:17:34,977 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 11:17:42,191 - org.apache.log4j.Logger -INFO - session id isio8ijm5fhl8iqqmoqq6f5cfppa
+2018-06-23 11:17:44,676 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 11:17:45,179 - org.apache.log4j.Logger -INFO - session id isio8ijm5fhl8iqqmoqq6f5cfppa
+2018-06-23 11:17:45,247 - org.apache.log4j.Logger -INFO - session id isio8ijm5fhl8iqqmoqq6f5cfppa
+2018-06-23 11:17:46,754 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (cfabad98d4d77223e2d565899e7745fb)] -> xpath: (//input[@name='airport'])[1]] is 134
+2018-06-23 11:17:46,951 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (cfabad98d4d77223e2d565899e7745fb)] -> xpath: (//input[@name='airport'])[1]] is 80
+2018-06-23 11:21:11,851 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 11:21:12,191 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 11:21:17,664 - org.apache.log4j.Logger -INFO - session id isl3h8v33co2c3fodi5m709e4olt
+2018-06-23 11:21:18,968 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 11:21:19,452 - org.apache.log4j.Logger -INFO - session id isl3h8v33co2c3fodi5m709e4olt
+2018-06-23 11:21:19,535 - org.apache.log4j.Logger -INFO - session id isl3h8v33co2c3fodi5m709e4olt
+2018-06-23 11:21:22,106 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (f78799526ad85d5193f59f682cc70336)] -> xpath: (//input[@name='airport'])[1]] is 126
+2018-06-23 11:21:22,298 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (f78799526ad85d5193f59f682cc70336)] -> xpath: (//input[@name='airport'])[1]] is 120
+2018-06-23 11:58:36,904 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 11:58:37,248 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 11:58:42,732 - org.apache.log4j.Logger -INFO - session id isibgn0i33avv4b2o71gvrh156ih
+2018-06-23 11:58:43,877 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 11:58:44,332 - org.apache.log4j.Logger -INFO - session id isibgn0i33avv4b2o71gvrh156ih
+2018-06-23 11:58:44,358 - org.apache.log4j.Logger -INFO - session id isibgn0i33avv4b2o71gvrh156ih
+2018-06-23 11:58:45,621 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (9f4234a3150c3bc467346202cfc77afa)] -> xpath: (//input[@name='airport'])[1]] is 97
+2018-06-23 11:58:45,733 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (9f4234a3150c3bc467346202cfc77afa)] -> xpath: (//input[@name='airport'])[1]] is 57
+2018-06-23 12:00:44,650 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 12:00:44,858 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 12:00:50,353 - org.apache.log4j.Logger -INFO - session id isbp2a0i09i2h2dab24h3d8anlad
+2018-06-23 12:00:51,685 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 12:00:52,140 - org.apache.log4j.Logger -INFO - session id isbp2a0i09i2h2dab24h3d8anlad
+2018-06-23 12:00:52,216 - org.apache.log4j.Logger -INFO - session id isbp2a0i09i2h2dab24h3d8anlad
+2018-06-23 12:00:53,304 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (186532bed7145e72508dec6af92cb27d)] -> xpath: (//input[@name='airport'])[1]] is 108
+2018-06-23 12:00:53,429 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (186532bed7145e72508dec6af92cb27d)] -> xpath: (//input[@name='airport'])[1]] is 51
+2018-06-23 12:01:53,794 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 12:01:54,012 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 12:01:59,498 - org.apache.log4j.Logger -INFO - session id ishl02qhpi16056ls8617lqdvq75
+2018-06-23 12:02:00,564 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 12:02:01,138 - org.apache.log4j.Logger -INFO - session id ishl02qhpi16056ls8617lqdvq75
+2018-06-23 12:02:01,182 - org.apache.log4j.Logger -INFO - session id ishl02qhpi16056ls8617lqdvq75
+2018-06-23 12:02:02,019 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (14fe2b77586174744b9811a27785ed50)] -> xpath: (//input[@name='airport'])[1]] is 107
+2018-06-23 12:02:02,139 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (14fe2b77586174744b9811a27785ed50)] -> xpath: (//input[@name='airport'])[1]] is 50
+2018-06-23 12:05:48,020 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 12:05:48,352 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 12:05:53,820 - org.apache.log4j.Logger -INFO - session id is8eu38t1mg1kbbbqnv0l7d6h9vq
+2018-06-23 12:05:54,931 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 12:05:55,379 - org.apache.log4j.Logger -INFO - session id is8eu38t1mg1kbbbqnv0l7d6h9vq
+2018-06-23 12:05:55,445 - org.apache.log4j.Logger -INFO - session id is8eu38t1mg1kbbbqnv0l7d6h9vq
+2018-06-23 12:05:56,477 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (f6e4aa86dfa5ec57f5f8c4e2aef46666)] -> xpath: (//input[@name='airport'])[1]] is 112
+2018-06-23 12:05:56,587 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (f6e4aa86dfa5ec57f5f8c4e2aef46666)] -> xpath: (//input[@name='airport'])[1]] is 52
+2018-06-23 12:11:39,227 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 12:11:39,433 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 12:11:44,871 - org.apache.log4j.Logger -INFO - session id is47gilj5c4vuspoghakihg8gbsp
+2018-06-23 12:11:45,944 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 12:11:46,353 - org.apache.log4j.Logger -INFO - session id is47gilj5c4vuspoghakihg8gbsp
+2018-06-23 12:11:46,416 - org.apache.log4j.Logger -INFO - session id is47gilj5c4vuspoghakihg8gbsp
+2018-06-23 12:11:47,251 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (95e3505faeda8073e231cf39a6da1c89)] -> xpath: (//input[@name='airport'])[1]] is 86
+2018-06-23 12:11:47,359 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (95e3505faeda8073e231cf39a6da1c89)] -> xpath: (//input[@name='airport'])[1]] is 46
+2018-06-23 12:12:46,062 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 12:12:46,342 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 12:12:51,788 - org.apache.log4j.Logger -INFO - session id isur04nkrcrgd7cb12dlenoug4pt
+2018-06-23 12:12:52,823 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 12:12:53,224 - org.apache.log4j.Logger -INFO - session id isur04nkrcrgd7cb12dlenoug4pt
+2018-06-23 12:12:53,288 - org.apache.log4j.Logger -INFO - session id isur04nkrcrgd7cb12dlenoug4pt
+2018-06-23 12:12:54,143 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (1403b559a63ac4b8b716ea61ec5ba159)] -> xpath: (//input[@name='airport'])[1]] is 83
+2018-06-23 12:12:54,249 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (1403b559a63ac4b8b716ea61ec5ba159)] -> xpath: (//input[@name='airport'])[1]] is 46
+2018-06-23 12:15:54,877 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 12:15:55,057 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 12:16:00,510 - org.apache.log4j.Logger -INFO - session id is2h8vumkvgusd4frttlp486jq2a
+2018-06-23 12:16:01,815 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 12:16:02,249 - org.apache.log4j.Logger -INFO - session id is2h8vumkvgusd4frttlp486jq2a
+2018-06-23 12:16:02,294 - org.apache.log4j.Logger -INFO - session id is2h8vumkvgusd4frttlp486jq2a
+2018-06-23 12:16:03,126 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (d667d20576c4906f63198749e17b09b3)] -> xpath: (//input[@name='airport'])[1]] is 83
+2018-06-23 12:16:03,233 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (d667d20576c4906f63198749e17b09b3)] -> xpath: (//input[@name='airport'])[1]] is 48
+2018-06-23 12:17:50,666 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 12:17:50,820 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 12:17:56,257 - org.apache.log4j.Logger -INFO - session id isvmh2i2bu14j2am8m73i6pqtjv1
+2018-06-23 12:17:57,539 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 12:17:57,980 - org.apache.log4j.Logger -INFO - session id isvmh2i2bu14j2am8m73i6pqtjv1
+2018-06-23 12:17:58,023 - org.apache.log4j.Logger -INFO - session id isvmh2i2bu14j2am8m73i6pqtjv1
+2018-06-23 12:17:58,850 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (a6c43fcf81827b249c3945232483115b)] -> xpath: (//input[@name='airport'])[1]] is 82
+2018-06-23 12:17:58,962 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (a6c43fcf81827b249c3945232483115b)] -> xpath: (//input[@name='airport'])[1]] is 48
+2018-06-23 12:22:21,219 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 12:22:21,411 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 12:22:26,834 - org.apache.log4j.Logger -INFO - session id is621ck3pbrc7844c746ppfmnfnq
+2018-06-23 12:22:28,399 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 12:22:28,789 - org.apache.log4j.Logger -INFO - session id is621ck3pbrc7844c746ppfmnfnq
+2018-06-23 12:22:28,847 - org.apache.log4j.Logger -INFO - session id is621ck3pbrc7844c746ppfmnfnq
+2018-06-23 12:22:29,696 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (5138a479bb49553108b902067c4ff3c0)] -> xpath: (//input[@name='airport'])[1]] is 111
+2018-06-23 12:22:29,804 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (5138a479bb49553108b902067c4ff3c0)] -> xpath: (//input[@name='airport'])[1]] is 50
+2018-06-23 12:26:45,201 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 12:26:45,479 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 12:26:50,918 - org.apache.log4j.Logger -INFO - session id is9j3r0abunpj97bhokenejpj03a
+2018-06-23 12:26:52,006 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 12:26:52,471 - org.apache.log4j.Logger -INFO - session id is9j3r0abunpj97bhokenejpj03a
+2018-06-23 12:26:52,489 - org.apache.log4j.Logger -INFO - session id is9j3r0abunpj97bhokenejpj03a
+2018-06-23 12:26:53,348 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (26facf93a2eeca2da963e9877b446ea4)] -> xpath: (//input[@name='airport'])[1]] is 127
+2018-06-23 12:26:53,451 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (26facf93a2eeca2da963e9877b446ea4)] -> xpath: (//input[@name='airport'])[1]] is 47
+2018-06-23 12:27:17,379 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-06-23 12:27:18,336 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (26facf93a2eeca2da963e9877b446ea4)] -> xpath: //img[@title='Later']] is 684
+2018-06-23 12:27:18,599 - org.apache.log4j.Logger -INFO - Farerules icon is  identified
+2018-06-23 12:29:56,440 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 12:29:56,624 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 12:30:02,051 - org.apache.log4j.Logger -INFO - session id ispm5peevk6r1q3nqpg0sdi22qj6
+2018-06-23 12:30:04,168 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 12:30:04,582 - org.apache.log4j.Logger -INFO - session id ispm5peevk6r1q3nqpg0sdi22qj6
+2018-06-23 12:30:04,670 - org.apache.log4j.Logger -INFO - session id ispm5peevk6r1q3nqpg0sdi22qj6
+2018-06-23 12:36:43,551 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (a93934471b0ff0d336f85f2112a0381c)] -> xpath: (//input[@name='airport'])[1]] is 790
+2018-06-23 12:36:44,574 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (a93934471b0ff0d336f85f2112a0381c)] -> xpath: (//input[@name='airport'])[1]] is 550
+2018-06-23 12:37:30,744 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 12:37:31,282 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 12:37:36,800 - org.apache.log4j.Logger -INFO - session id is956e1r12jp2jpa0skk3i0ptg2m
+2018-06-23 12:37:37,871 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 12:37:38,276 - org.apache.log4j.Logger -INFO - session id is956e1r12jp2jpa0skk3i0ptg2m
+2018-06-23 12:37:38,344 - org.apache.log4j.Logger -INFO - session id is956e1r12jp2jpa0skk3i0ptg2m
+2018-06-23 12:37:52,448 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (acaa0214a17c7750359eeb708152dd79)] -> xpath: (//input[@name='airport'])[1]] is 803
+2018-06-23 12:37:53,464 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (acaa0214a17c7750359eeb708152dd79)] -> xpath: (//input[@name='airport'])[1]] is 543
+2018-06-23 12:38:52,239 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 12:38:52,555 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 12:38:58,095 - org.apache.log4j.Logger -INFO - session id isn6f7n91lqui0470vic3v97es6b
+2018-06-23 12:38:59,575 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 12:38:59,980 - org.apache.log4j.Logger -INFO - session id isn6f7n91lqui0470vic3v97es6b
+2018-06-23 12:39:00,057 - org.apache.log4j.Logger -INFO - session id isn6f7n91lqui0470vic3v97es6b
+2018-06-23 12:54:34,314 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 12:54:34,502 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 12:54:39,937 - org.apache.log4j.Logger -INFO - session id issq6epq6392u98ssrlnegim348t
+2018-06-23 12:54:41,159 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 12:54:41,579 - org.apache.log4j.Logger -INFO - session id issq6epq6392u98ssrlnegim348t
+2018-06-23 12:54:41,633 - org.apache.log4j.Logger -INFO - session id issq6epq6392u98ssrlnegim348t
+2018-06-23 12:54:42,492 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (7875b4962b930eab7dbf664268775b9e)] -> xpath: (//input[@name='airport'])[1]] is 111
+2018-06-23 12:54:42,622 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (7875b4962b930eab7dbf664268775b9e)] -> xpath: (//input[@name='airport'])[1]] is 60
+2018-06-23 12:57:08,842 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 12:57:09,031 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 12:57:14,452 - org.apache.log4j.Logger -INFO - session id is1u5e0laam7as2db5nh5dr4s8uo
+2018-06-23 12:57:15,493 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 12:57:15,928 - org.apache.log4j.Logger -INFO - session id is1u5e0laam7as2db5nh5dr4s8uo
+2018-06-23 12:57:15,959 - org.apache.log4j.Logger -INFO - session id is1u5e0laam7as2db5nh5dr4s8uo
+2018-06-23 12:57:16,787 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0d196968eae332ed9d1b6920c801bf15)] -> xpath: (//input[@name='airport'])[1]] is 80
+2018-06-23 12:57:16,893 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0d196968eae332ed9d1b6920c801bf15)] -> xpath: (//input[@name='airport'])[1]] is 50
+2018-06-23 12:57:39,211 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-06-23 12:57:40,208 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0d196968eae332ed9d1b6920c801bf15)] -> xpath: //img[@title='Later']] is 715
+2018-06-23 12:57:40,476 - org.apache.log4j.Logger -INFO - Farerules icon is  identified
+2018-06-23 12:57:46,245 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0d196968eae332ed9d1b6920c801bf15)] -> xpath: //div[@class='packit-close-block']/button] is 3860
+2018-06-23 12:57:56,539 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-06-23 12:57:56,912 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0d196968eae332ed9d1b6920c801bf15)] -> xpath: //img[@title='Later']] is 164
+2018-06-23 12:57:57,131 - org.apache.log4j.Logger -INFO - Requested filter or filter option is not available
+2018-06-23 12:57:59,920 - org.apache.log4j.Logger -INFO - offer price details list is :[3437.37, 3437.37, 4453.53, 4453.53, 4461.49, 4473.53, 4473.53, 4473.53, 4473.53, 4473.53, 4473.53, 4481.49, 4481.49, 4481.49, 4489.45, 4493.53, 4493.53, 4493.53, 4493.53, 4501.49]
+2018-06-23 12:57:59,922 - org.apache.log4j.Logger -INFO - offer price details list is :[3437.37, 3437.37, 4453.53, 4453.53, 4461.49, 4473.53, 4473.53, 4473.53, 4473.53, 4473.53, 4473.53, 4481.49, 4481.49, 4481.49, 4489.45, 4493.53, 4493.53, 4493.53, 4493.53, 4501.49]
+2018-06-23 12:57:59,922 - org.apache.log4j.Logger -INFO - offer price details list is :[3437.37, 3437.37, 4453.53, 4453.53, 4461.49, 4473.53, 4473.53, 4473.53, 4473.53, 4473.53, 4473.53, 4481.49, 4481.49, 4481.49, 4489.45, 4493.53, 4493.53, 4493.53, 4493.53, 4501.49]
+2018-06-23 12:57:59,922 - org.apache.log4j.Logger -INFO - Flight results are sorted in price ascending order
+2018-06-23 12:58:01,429 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0d196968eae332ed9d1b6920c801bf15)] -> xpath: (//a/span[text()='Show price breakdown'])[1]] is 1125
+2018-06-23 12:59:02,941 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0d196968eae332ed9d1b6920c801bf15)] -> xpath: (//div[@class='packit-filter-item-buttons']/div/div[1]/a/span)[1]] is 342
+2018-06-23 12:59:05,575 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-06-23 13:01:31,050 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 13:01:31,697 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 13:01:37,143 - org.apache.log4j.Logger -INFO - session id ish8mtf8epfravv6mis7t4dfkr7h
+2018-06-23 13:01:38,237 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 13:01:38,668 - org.apache.log4j.Logger -INFO - session id ish8mtf8epfravv6mis7t4dfkr7h
+2018-06-23 13:01:38,724 - org.apache.log4j.Logger -INFO - session id ish8mtf8epfravv6mis7t4dfkr7h
+2018-06-23 13:01:39,557 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (cbdbb2aabbde2e029a63482a07d5c1f3)] -> xpath: (//input[@name='airport'])[1]] is 89
+2018-06-23 13:01:39,668 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (cbdbb2aabbde2e029a63482a07d5c1f3)] -> xpath: (//input[@name='airport'])[1]] is 53
+2018-06-23 14:38:41,026 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-06-23 14:38:41,556 - org.apache.log4j.Logger -INFO - user name is entered
+2018-06-23 14:38:47,430 - org.apache.log4j.Logger -INFO - session id istvo9ef90askgui4vto91qf8agl
+2018-06-23 14:38:49,189 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-06-23 14:38:49,674 - org.apache.log4j.Logger -INFO - session id istvo9ef90askgui4vto91qf8agl
+2018-06-23 14:38:49,754 - org.apache.log4j.Logger -INFO - session id istvo9ef90askgui4vto91qf8agl
+2018-06-23 14:38:50,850 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (ef73957963f997bd5423af9880f4d679)] -> xpath: (//input[@name='airport'])[1]] is 222
+2018-06-23 14:38:51,175 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (ef73957963f997bd5423af9880f4d679)] -> xpath: (//input[@name='airport'])[1]] is 120
+2018-07-02 22:44:07,597 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-07-02 22:44:08,318 - org.apache.log4j.Logger -INFO - user name is entered
+2018-07-02 22:44:15,548 - org.apache.log4j.Logger -INFO - session id is7c2b4kfpoujq2oqi87dgqpkt7s
+2018-07-02 22:44:23,676 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-07-02 22:44:24,186 - org.apache.log4j.Logger -INFO - session id is7c2b4kfpoujq2oqi87dgqpkt7s
+2018-07-02 22:44:24,309 - org.apache.log4j.Logger -INFO - session id is7c2b4kfpoujq2oqi87dgqpkt7s
+2018-07-02 22:44:25,574 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (c5a3eb383283a3e0f110ab3da6c32ba3)] -> xpath: (//input[@name='airport'])[1]] is 187
+2018-07-02 22:44:27,446 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (c5a3eb383283a3e0f110ab3da6c32ba3)] -> xpath: (//input[@name='airport'])[1]] is 92
+2018-07-02 22:44:34,011 - org.apache.log4j.Logger -INFO - session id is7c2b4kfpoujq2oqi87dgqpkt7s
+2018-07-02 22:44:59,673 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-07-02 22:45:00,729 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (c5a3eb383283a3e0f110ab3da6c32ba3)] -> xpath: //img[@title='Later']] is 705
+2018-07-02 22:45:01,038 - org.apache.log4j.Logger -INFO - Farerules icon is  identified
+2018-07-02 22:45:08,485 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (c5a3eb383283a3e0f110ab3da6c32ba3)] -> xpath: //div[@class='packit-close-block']/button] is 5693
+2018-07-02 22:48:45,077 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-07-02 22:48:45,255 - org.apache.log4j.Logger -INFO - user name is entered
+2018-07-02 22:48:50,730 - org.apache.log4j.Logger -INFO - session id isif0adk2o2e90uj6ejn4t5hgmh9
+2018-07-02 22:48:52,182 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-07-02 22:48:52,567 - org.apache.log4j.Logger -INFO - session id isif0adk2o2e90uj6ejn4t5hgmh9
+2018-07-02 22:48:52,584 - org.apache.log4j.Logger -INFO - session id isif0adk2o2e90uj6ejn4t5hgmh9
+2018-07-02 22:48:53,461 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (4565e7448ac913f825b4ec570a47180f)] -> xpath: (//input[@name='airport'])[1]] is 89
+2018-07-02 22:48:53,577 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (4565e7448ac913f825b4ec570a47180f)] -> xpath: (//input[@name='airport'])[1]] is 55
+2018-07-02 22:48:57,638 - org.apache.log4j.Logger -INFO - session id isif0adk2o2e90uj6ejn4t5hgmh9
+2018-07-02 22:49:18,801 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-07-02 22:49:19,845 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (4565e7448ac913f825b4ec570a47180f)] -> xpath: //img[@title='Later']] is 751
+2018-07-02 22:49:20,194 - org.apache.log4j.Logger -INFO - Farerules icon is  identified
+2018-07-07 17:23:35,182 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-07-07 17:23:36,148 - org.apache.log4j.Logger -INFO - user name is entered
+2018-07-07 17:23:41,932 - org.apache.log4j.Logger -INFO - session id isi2elth5soesl1b2mhafsfoood
+2018-07-07 17:23:43,648 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-07-07 17:23:44,039 - org.apache.log4j.Logger -INFO - session id isi2elth5soesl1b2mhafsfoood
+2018-07-07 17:23:44,071 - org.apache.log4j.Logger -INFO - session id isi2elth5soesl1b2mhafsfoood
+2018-07-07 17:23:44,949 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (ec081dbb1641f0ec87cea7bcce85d033)] -> xpath: (//input[@name='airport'])[1]] is 105
+2018-07-07 17:23:45,302 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (ec081dbb1641f0ec87cea7bcce85d033)] -> xpath: (//input[@name='airport'])[1]] is 97
+2018-07-07 17:23:49,285 - org.apache.log4j.Logger -INFO - session id isi2elth5soesl1b2mhafsfoood
+2018-07-07 17:25:31,752 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-07-07 17:25:31,922 - org.apache.log4j.Logger -INFO - user name is entered
+2018-07-07 17:25:37,346 - org.apache.log4j.Logger -INFO - session id isa6mhgheklt8o00cv69n0pj9fgn
+2018-07-07 17:25:38,420 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-07-07 17:25:38,817 - org.apache.log4j.Logger -INFO - session id isa6mhgheklt8o00cv69n0pj9fgn
+2018-07-07 17:25:38,881 - org.apache.log4j.Logger -INFO - session id isa6mhgheklt8o00cv69n0pj9fgn
+2018-07-07 17:25:39,743 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (77cac07002f10f1c75d3113dd7b58945)] -> xpath: (//input[@name='airport'])[1]] is 87
+2018-07-07 17:25:39,859 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (77cac07002f10f1c75d3113dd7b58945)] -> xpath: (//input[@name='airport'])[1]] is 53
+2018-07-07 17:25:43,841 - org.apache.log4j.Logger -INFO - session id isa6mhgheklt8o00cv69n0pj9fgn
+2018-07-07 17:25:44,526 - org.apache.log4j.Logger -INFO - email address is by new parser method:+++++++++++++ tarife@aer.at
+2018-07-07 17:25:44,527 - org.apache.log4j.Logger -INFO - email address is by new parser method2:+++++++++++++ tarife@aer.at
+2018-07-14 22:28:06,435 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-07-14 22:28:07,005 - org.apache.log4j.Logger -INFO - user name is entered
+2018-07-15 13:24:20,226 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-07-15 13:24:20,702 - org.apache.log4j.Logger -INFO - user name is entered
+2018-07-15 13:24:26,744 - org.apache.log4j.Logger -INFO - session id is87bfuoimvim5fqcr6mgq795gs0
+2018-07-15 13:24:28,718 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-07-15 13:24:29,128 - org.apache.log4j.Logger -INFO - session id is87bfuoimvim5fqcr6mgq795gs0
+2018-07-15 13:24:29,169 - org.apache.log4j.Logger -INFO - session id is87bfuoimvim5fqcr6mgq795gs0
+2018-07-15 13:24:30,195 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0c335c663fba202ea84961fc32d0bdbe)] -> xpath: (//input[@name='airport'])[1]] is 160
+2018-07-15 13:24:30,374 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0c335c663fba202ea84961fc32d0bdbe)] -> xpath: (//input[@name='airport'])[1]] is 59
+2018-07-15 13:24:34,485 - org.apache.log4j.Logger -INFO - session id is87bfuoimvim5fqcr6mgq795gs0
+2018-07-15 13:24:35,268 - org.apache.log4j.Logger -INFO - email address is by new parser method:+++++++++++++ tarife@aer.at
+2018-07-15 13:24:35,269 - org.apache.log4j.Logger -INFO - email address is by new parser method2:+++++++++++++ tarife@aer.at
+2018-07-15 13:24:57,905 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-07-15 13:24:58,934 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0c335c663fba202ea84961fc32d0bdbe)] -> xpath: //img[@title='Later']] is 680
+2018-07-15 13:24:59,197 - org.apache.log4j.Logger -INFO - Farerules icon is  identified
+2018-07-15 13:25:07,023 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0c335c663fba202ea84961fc32d0bdbe)] -> xpath: //div[@class='packit-close-block']/button] is 6343
+2018-07-15 13:25:17,307 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-07-15 13:25:17,686 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0c335c663fba202ea84961fc32d0bdbe)] -> xpath: //img[@title='Later']] is 158
+2018-07-15 13:25:17,855 - org.apache.log4j.Logger -INFO - Requested filter or filter option is not available
+2018-07-15 13:25:20,196 - org.apache.log4j.Logger -INFO - offer price details list is :[314.95, 333.95, 3437.37, 3437.37, 4453.53, 4453.53, 4453.53, 4453.53, 4461.38, 4461.38, 4461.38, 4469.23, 4481.38, 4521.38, 4545.38]
+2018-07-15 13:25:20,197 - org.apache.log4j.Logger -INFO - offer price details list is :[314.95, 333.95, 3437.37, 3437.37, 4453.53, 4453.53, 4453.53, 4453.53, 4461.38, 4461.38, 4461.38, 4469.23, 4481.38, 4521.38, 4545.38]
+2018-07-15 13:25:20,198 - org.apache.log4j.Logger -INFO - offer price details list is :[314.95, 333.95, 3437.37, 3437.37, 4453.53, 4453.53, 4453.53, 4453.53, 4461.38, 4461.38, 4461.38, 4469.23, 4481.38, 4521.38, 4545.38]
+2018-07-15 13:25:20,199 - org.apache.log4j.Logger -INFO - Flight results are sorted in price ascending order
+2018-07-15 13:25:21,372 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0c335c663fba202ea84961fc32d0bdbe)] -> xpath: (//a/span[text()='Show price breakdown'])[1]] is 841
+2018-07-15 13:25:22,473 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0c335c663fba202ea84961fc32d0bdbe)] -> xpath: (//span[text()='Show more'])[1]] is 712
+2018-07-15 13:25:23,627 - org.apache.log4j.Logger -INFO - column wise sum is matching with the paxwise total and paxwise total is: 314.95
+2018-07-15 13:25:23,628 - org.apache.log4j.Logger -INFO - paxwise total is: 314.95
+2018-07-15 13:25:23,628 - org.apache.log4j.Logger -INFO - price table total is: 314.95
+2018-07-15 13:25:23,628 - org.apache.log4j.Logger -INFO - Paxwise total verification in Results page+++++++++++314.95
+2018-07-15 13:25:25,059 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0c335c663fba202ea84961fc32d0bdbe)] -> xpath: (//div[@class='packit-filter-item-buttons']/div/div[1]/a/span)[1]] is 908
+2018-07-15 13:25:27,566 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-07-15 13:25:37,630 - org.apache.log4j.Logger -INFO - alternatives display exception checkfalse
+2018-07-15 13:25:40,036 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-07-15 13:25:50,067 - org.apache.log4j.Logger -INFO - alternatives display exception checkfalse
+2018-07-15 13:25:52,454 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-07-15 13:25:52,561 - org.apache.log4j.Logger -INFO - Details page is displayed
+2018-07-15 13:25:52,821 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0c335c663fba202ea84961fc32d0bdbe)] -> xpath: //div[3]/div[1]/div/div/div[1]/ul/li[9]/a[1]/span] is 133
+2018-07-15 13:25:54,293 - org.apache.log4j.Logger -INFO - column wise sum is matching with the paxwise total and paxwise total is: 314.95
+2018-07-15 13:25:54,294 - org.apache.log4j.Logger -INFO - paxwise total is: 314.95
+2018-07-15 13:25:54,294 - org.apache.log4j.Logger -INFO - price table total is: 314.95
+2018-07-15 13:25:54,294 - org.apache.log4j.Logger -INFO - Paxwise total verification in Results page+++++++++++314.95
+2018-07-15 13:25:56,386 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (0c335c663fba202ea84961fc32d0bdbe)] -> xpath: //form[@name='passengerDataFormMain']/div[2]/div/div/input] is 105
+2018-07-15 13:25:57,967 - org.apache.log4j.Logger -INFO - Additional services page header text is: +++++++++++++++++++++++++++Additional services
+2018-07-15 13:25:58,119 - org.apache.log4j.Logger -INFO - Additional services page is displayed
+2018-07-15 13:25:58,153 - org.apache.log4j.Logger -INFO - ZZf additional service verification
+2018-07-15 13:26:08,178 - org.apache.log4j.Logger -INFO - Additional service is not available
+2018-07-15 13:26:08,179 - org.apache.log4j.Logger -INFO - Additional service tile check++++++++++++++++++++++++++++++++++++++++++false
+2018-07-15 13:26:18,225 - org.apache.log4j.Logger -INFO - Additional service is not available
+2018-07-15 13:26:18,226 - org.apache.log4j.Logger -INFO - Additional service tile check++++++++++++++++++++++++++++++++++++++++++false
+2018-07-15 13:26:18,226 - org.apache.log4j.Logger -INFO - ZZF is not possible
+2018-07-15 13:26:18,907 - org.apache.log4j.Logger -INFO - Additional services page header text is: +++++++++++++++++++++++++++Additional services
+2018-07-15 13:26:18,946 - org.apache.log4j.Logger -INFO - Additional services page is displayed
+2018-07-15 13:26:18,948 - org.apache.log4j.Logger -INFO - Seats additional service verification
+2018-07-15 13:26:19,038 - org.apache.log4j.Logger -INFO - Additional service tile check++++++++++++++++++++++++++++++++++++++++++true
+2018-07-15 13:26:19,065 - org.apache.log4j.Logger -INFO - Seats additional service verification
+2018-07-15 13:26:19,127 - org.apache.log4j.Logger -INFO - Additional service tile check++++++++++++++++++++++++++++++++++++++++++true
+2018-07-15 13:26:33,695 - org.apache.log4j.Logger -INFO - Seats selection is possibletrue
+2018-07-15 13:26:33,710 - org.apache.log4j.Logger -INFO - packit-seatmap-cell tipso_style packit-chargablein foreach loop::0
+2018-07-15 13:26:33,710 - org.apache.log4j.Logger -INFO - [[ChromeDriver: chrome on XP (0c335c663fba202ea84961fc32d0bdbe)] -> xpath: //li/a[contains(@class,'packit-seatmap-cell tipso_style')]]+++++++0
+2018-07-15 13:26:33,769 - org.apache.log4j.Logger -INFO - in foreach loop::0
+2018-07-15 13:26:33,789 - org.apache.log4j.Logger -INFO - 6Ain foreach loop::0
+2018-07-15 13:26:36,476 - org.apache.log4j.Logger -INFO - Green check is displayed ::true
+2018-07-15 13:26:36,477 - org.apache.log4j.Logger -INFO - Green check is displayed on additional service boxtrue
+2018-07-15 13:26:42,790 - org.apache.log4j.Logger -INFO - loader is closed after 5Seconds
+2018-07-15 13:26:43,128 - org.apache.log4j.Logger -INFO - Packit payment page header text is: +++++++++++++++++++++++++++[[ChromeDriver: chrome on XP (0c335c663fba202ea84961fc32d0bdbe)] -> xpath: //span[contains(text(),'Payment')]]
+2018-07-15 13:26:43,185 - org.apache.log4j.Logger -INFO - Payment page is displayed
+2018-07-15 13:26:43,696 - org.apache.log4j.Logger -INFO - Packit payment page header text is: +++++++++++++++++++++++++++[[ChromeDriver: chrome on XP (0c335c663fba202ea84961fc32d0bdbe)] -> xpath: //span[contains(text(),'Payment')]]
+2018-07-15 13:26:43,753 - org.apache.log4j.Logger -INFO - Payment page is displayed
+2018-07-15 13:26:53,804 - org.apache.log4j.Logger -INFO - Agent Markup3 auto update popup is not displayed
+2018-07-15 13:26:54,000 - org.apache.log4j.Logger -INFO - [[ChromeDriver: chrome on XP (0c335c663fba202ea84961fc32d0bdbe)] -> xpath: //div[@name='formOfPayments']/div/div/div[1]/span] is available
+2018-07-15 13:27:09,887 - org.apache.log4j.Logger -INFO - loader is closed after 4Seconds
+2018-07-15 13:27:11,574 - org.apache.log4j.Logger -INFO - sum of paxwise details326.95
+2018-07-15 13:27:11,574 - org.apache.log4j.Logger -INFO - priceTableTotal326.95
+2018-07-15 13:27:21,631 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-07-15 13:27:21,632 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-07-15 13:27:22,178 - org.apache.log4j.Logger -INFO - Entered AM3=60
+2018-07-15 13:27:32,979 - org.apache.log4j.Logger -INFO - Agent Markup3 auto update popup is not displayed
+2018-07-15 13:27:45,049 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-07-15 13:27:46,618 - org.apache.log4j.Logger -INFO - sum of paxwise details386.95
+2018-07-15 13:27:46,618 - org.apache.log4j.Logger -INFO - priceTableTotal386.95
+2018-07-15 13:27:56,634 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-07-15 13:27:56,634 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-07-15 13:27:57,281 - org.apache.log4j.Logger -INFO - Method1 enabled  :true
+2018-07-15 13:27:57,324 - org.apache.log4j.Logger -INFO - Method1 enabled  :true
+2018-07-15 13:28:07,370 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-07-15 13:28:07,374 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-07-15 13:28:07,416 - org.apache.log4j.Logger -INFO - Method1 enabled  :true
+2018-07-15 13:28:07,444 - org.apache.log4j.Logger -INFO - Method1 enabled  :true
+2018-07-15 13:28:08,134 - org.apache.log4j.Logger -INFO - Credit card field is displaying correctlytrue
+2018-07-15 13:28:26,222 - org.apache.log4j.Logger -INFO - loader is closed after 7Seconds
+2018-07-15 13:28:36,315 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-07-15 13:28:36,316 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-07-15 13:28:37,754 - org.apache.log4j.Logger -INFO - sum of paxwise details388.95
+2018-07-15 13:28:37,755 - org.apache.log4j.Logger -INFO - priceTableTotal388.95
+2018-07-15 13:28:47,810 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-07-15 13:28:47,811 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-07-15 13:28:47,997 - org.apache.log4j.Logger -INFO - Method2Total388.95
+2018-07-15 13:28:47,997 - org.apache.log4j.Logger -INFO - Pricetable calculation is verified when cc payment is selected with Method2
+2018-07-15 13:28:48,080 - org.apache.log4j.Logger -INFO - Method1 enabled  :true
+2018-07-15 13:28:48,117 - org.apache.log4j.Logger -INFO - Method1 enabled  :true
+2018-09-13 19:22:08,900 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-09-13 19:22:09,483 - org.apache.log4j.Logger -INFO - user name is entered
+2018-09-13 19:22:15,066 - org.apache.log4j.Logger -INFO - session id ispg1n246rb1ciupnebgf28bdfrg
+2018-09-13 19:22:17,240 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-09-13 19:22:17,693 - org.apache.log4j.Logger -INFO - session id ispg1n246rb1ciupnebgf28bdfrg
+2018-09-13 19:22:17,748 - org.apache.log4j.Logger -INFO - session id ispg1n246rb1ciupnebgf28bdfrg
+2018-09-13 19:22:18,672 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (1530f440d8475893fe93ba46d2ab9c6c)] -> xpath: (//input[@name='airport'])[1]] is 111
+2018-09-13 19:22:18,789 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (1530f440d8475893fe93ba46d2ab9c6c)] -> xpath: (//input[@name='airport'])[1]] is 53
+2018-09-13 19:22:22,905 - org.apache.log4j.Logger -INFO - session id ispg1n246rb1ciupnebgf28bdfrg
+2018-09-13 19:22:24,332 - org.apache.log4j.Logger -INFO - email address is by new parser method:+++++++++++++ tarife@aer.at
+2018-09-13 19:22:24,334 - org.apache.log4j.Logger -INFO - email address is by new parser method2:+++++++++++++ tarife@aer.at
+2018-09-13 19:23:18,644 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-09-13 19:23:18,905 - org.apache.log4j.Logger -INFO - user name is entered
+2018-09-13 19:23:24,448 - org.apache.log4j.Logger -INFO - session id istknstekthud6ntpjpmg147prfd
+2018-09-13 19:23:25,767 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-09-13 19:23:26,193 - org.apache.log4j.Logger -INFO - session id istknstekthud6ntpjpmg147prfd
+2018-09-13 19:23:26,272 - org.apache.log4j.Logger -INFO - session id istknstekthud6ntpjpmg147prfd
+2018-09-13 19:23:27,426 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (5fe8e99ebe3faf6c90171fa8af911805)] -> xpath: (//input[@name='airport'])[1]] is 169
+2018-09-13 19:23:27,606 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (5fe8e99ebe3faf6c90171fa8af911805)] -> xpath: (//input[@name='airport'])[1]] is 85
+2018-09-13 19:23:31,656 - org.apache.log4j.Logger -INFO - session id istknstekthud6ntpjpmg147prfd
+2018-09-13 19:23:32,371 - org.apache.log4j.Logger -INFO - email address is by new parser method:+++++++++++++ tarife@aer.at
+2018-09-13 19:23:32,372 - org.apache.log4j.Logger -INFO - email address is by new parser method2:+++++++++++++ tarife@aer.at
+2018-09-13 19:24:03,062 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++0
+2018-09-13 19:25:14,280 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-09-13 19:25:14,588 - org.apache.log4j.Logger -INFO - user name is entered
+2018-09-13 19:25:20,356 - org.apache.log4j.Logger -INFO - session id isaqfrd8hsabsul7tqdbfdk2ursk
+2018-09-13 19:25:21,763 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-09-13 19:25:22,187 - org.apache.log4j.Logger -INFO - session id isaqfrd8hsabsul7tqdbfdk2ursk
+2018-09-13 19:25:22,279 - org.apache.log4j.Logger -INFO - session id isaqfrd8hsabsul7tqdbfdk2ursk
+2018-09-13 19:25:23,201 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (bdc4e4047398c12ef6b0ad1743066a93)] -> xpath: (//input[@name='airport'])[1]] is 116
+2018-09-13 19:25:23,342 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (bdc4e4047398c12ef6b0ad1743066a93)] -> xpath: (//input[@name='airport'])[1]] is 68
+2018-09-13 19:25:27,637 - org.apache.log4j.Logger -INFO - session id isaqfrd8hsabsul7tqdbfdk2ursk
+2018-09-13 19:25:28,366 - org.apache.log4j.Logger -INFO - email address is by new parser method:+++++++++++++ tarife@aer.at
+2018-09-13 19:25:28,367 - org.apache.log4j.Logger -INFO - email address is by new parser method2:+++++++++++++ tarife@aer.at
+2018-09-13 19:25:45,680 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-09-13 19:25:45,953 - org.apache.log4j.Logger -INFO - Requested filter or filter option is not available
+2018-09-13 19:25:45,956 - org.apache.log4j.Logger -INFO - Farerules icon is  identified
+2018-09-13 19:25:56,971 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-09-13 19:25:57,942 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (bdc4e4047398c12ef6b0ad1743066a93)] -> xpath: //img[@title='Later']] is 699
+2018-09-13 19:25:59,887 - org.apache.log4j.Logger -INFO - offer price details list is :[1478.81, 3071.24, 3071.24, 3104.37]
+2018-09-13 19:25:59,888 - org.apache.log4j.Logger -INFO - offer price details list is :[1478.81, 3071.24, 3071.24, 3104.37]
+2018-09-13 19:25:59,888 - org.apache.log4j.Logger -INFO - offer price details list is :[1478.81, 3071.24, 3071.24, 3104.37]
+2018-09-13 19:25:59,888 - org.apache.log4j.Logger -INFO - Flight results are sorted in price ascending order
+2018-09-13 19:26:00,927 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (bdc4e4047398c12ef6b0ad1743066a93)] -> xpath: (//a/span[text()='Show price breakdown'])[1]] is 793
+2018-09-13 19:26:01,563 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (bdc4e4047398c12ef6b0ad1743066a93)] -> xpath: (//span[text()='Show more'])[1]] is 253
+2018-09-13 19:26:02,720 - org.apache.log4j.Logger -INFO - column wise sum is matching with the paxwise total and paxwise total is: 1478.81
+2018-09-13 19:26:02,721 - org.apache.log4j.Logger -INFO - paxwise total is: 1478.81
+2018-09-13 19:26:02,721 - org.apache.log4j.Logger -INFO - price table total is: 1478.81
+2018-09-13 19:26:02,721 - org.apache.log4j.Logger -INFO - Paxwise total verification in Results page+++++++++++1478.81
+2018-09-13 19:26:04,493 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (bdc4e4047398c12ef6b0ad1743066a93)] -> xpath: (//div[@class='packit-filter-item-buttons']/div/div[1]/a/span)[1]] is 1302
+2018-09-13 19:26:06,869 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-09-13 19:26:16,917 - org.apache.log4j.Logger -INFO - alternatives display exception checkfalse
+2018-09-13 20:16:12,786 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-09-13 20:16:13,317 - org.apache.log4j.Logger -INFO - user name is entered
+2018-09-13 20:16:19,099 - org.apache.log4j.Logger -INFO - session id isenmu75q93lcpmt8pl21ab94s7q
+2018-09-13 20:16:20,606 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-09-13 20:16:21,215 - org.apache.log4j.Logger -INFO - session id isenmu75q93lcpmt8pl21ab94s7q
+2018-09-13 20:16:21,263 - org.apache.log4j.Logger -INFO - session id isenmu75q93lcpmt8pl21ab94s7q
+2018-09-13 20:16:22,146 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (967e910e7399995eceb31d00acea2086)] -> xpath: (//input[@name='airport'])[1]] is 101
+2018-09-13 20:16:22,265 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (967e910e7399995eceb31d00acea2086)] -> xpath: (//input[@name='airport'])[1]] is 54
+2018-09-13 20:16:26,345 - org.apache.log4j.Logger -INFO - session id isenmu75q93lcpmt8pl21ab94s7q
+2018-09-13 20:16:27,128 - org.apache.log4j.Logger -INFO - email address is by new parser method:+++++++++++++ tarife@aer.at
+2018-09-13 20:16:27,129 - org.apache.log4j.Logger -INFO - email address is by new parser method2:+++++++++++++ tarife@aer.at
+2018-09-13 20:16:43,984 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-09-13 20:16:45,144 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (967e910e7399995eceb31d00acea2086)] -> xpath: //img[@title='Later']] is 775
+2018-09-13 20:16:45,506 - org.apache.log4j.Logger -INFO - Farerules icon is  identified
+2018-09-13 20:16:57,057 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (967e910e7399995eceb31d00acea2086)] -> xpath: //div[@class='packit-close-block']/button] is 9226
+2018-09-13 20:17:07,442 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-09-13 20:17:07,950 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (967e910e7399995eceb31d00acea2086)] -> xpath: //img[@title='Later']] is 297
+2018-09-13 20:17:08,141 - org.apache.log4j.Logger -INFO - Requested filter option is not available
+2018-09-13 20:17:09,881 - org.apache.log4j.Logger -INFO - offer price details list is :[1478.81, 3071.24, 3071.24, 3104.37]
+2018-09-13 20:17:09,882 - org.apache.log4j.Logger -INFO - offer price details list is :[1478.81, 3071.24, 3071.24, 3104.37]
+2018-09-13 20:17:09,882 - org.apache.log4j.Logger -INFO - offer price details list is :[1478.81, 3071.24, 3071.24, 3104.37]
+2018-09-13 20:17:09,883 - org.apache.log4j.Logger -INFO - Flight results are sorted in price ascending order
+2018-09-13 20:17:11,028 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (967e910e7399995eceb31d00acea2086)] -> xpath: (//a/span[text()='Show price breakdown'])[1]] is 838
+2018-09-13 20:17:12,147 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (967e910e7399995eceb31d00acea2086)] -> xpath: (//span[text()='Show more'])[1]] is 694
+2018-09-13 20:17:13,250 - org.apache.log4j.Logger -INFO - column wise sum is matching with the paxwise total and paxwise total is: 1478.81
+2018-09-13 20:17:13,251 - org.apache.log4j.Logger -INFO - paxwise total is: 1478.81
+2018-09-13 20:17:13,251 - org.apache.log4j.Logger -INFO - price table total is: 1478.81
+2018-09-13 20:17:13,251 - org.apache.log4j.Logger -INFO - Paxwise total verification in Results page+++++++++++1478.81
+2018-09-13 20:17:14,671 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (967e910e7399995eceb31d00acea2086)] -> xpath: (//div[@class='packit-filter-item-buttons']/div/div[1]/a/span)[1]] is 912
+2018-09-13 20:17:17,024 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-09-13 20:17:27,080 - org.apache.log4j.Logger -INFO - alternatives display exception checkfalse
+2018-09-13 20:17:29,531 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-09-13 20:17:39,612 - org.apache.log4j.Logger -INFO - alternatives display exception checkfalse
+2018-09-13 20:17:42,110 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-09-13 20:17:52,182 - org.apache.log4j.Logger -INFO - alternatives display exception checkfalse
+2018-09-13 20:17:54,588 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-09-13 20:17:54,688 - org.apache.log4j.Logger -INFO - Details page is displayed
+2018-09-13 20:17:54,935 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (967e910e7399995eceb31d00acea2086)] -> xpath: //div[3]/div[1]/div/div/div[1]/ul/li[9]/a[1]/span] is 182
+2018-09-13 20:17:56,651 - org.apache.log4j.Logger -INFO - column wise sum is matching with the paxwise total and paxwise total is: 1478.81
+2018-09-13 20:17:56,651 - org.apache.log4j.Logger -INFO - paxwise total is: 1478.81
+2018-09-13 20:17:56,652 - org.apache.log4j.Logger -INFO - price table total is: 1478.81
+2018-09-13 20:17:56,652 - org.apache.log4j.Logger -INFO - Paxwise total verification in Results page+++++++++++1478.81
+2018-09-13 20:17:58,875 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (967e910e7399995eceb31d00acea2086)] -> xpath: //form[@name='passengerDataFormMain']/div[2]/div/div/input] is 102
+2018-09-13 20:18:00,971 - org.apache.log4j.Logger -INFO - Additional services page header text is: +++++++++++++++++++++++++++Additional services
+2018-09-13 20:18:01,028 - org.apache.log4j.Logger -INFO - Additional services page is displayed
+2018-09-13 20:18:01,072 - org.apache.log4j.Logger -INFO - ZZf additional service verification
+2018-09-13 20:18:11,131 - org.apache.log4j.Logger -INFO - Additional service is not available
+2018-09-13 20:18:11,132 - org.apache.log4j.Logger -INFO - Additional service tile check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:18:21,186 - org.apache.log4j.Logger -INFO - Additional service is not available
+2018-09-13 20:18:21,187 - org.apache.log4j.Logger -INFO - Additional service tile check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:18:21,187 - org.apache.log4j.Logger -INFO - ZZF is not possible
+2018-09-13 20:18:21,785 - org.apache.log4j.Logger -INFO - Additional services page header text is: +++++++++++++++++++++++++++Additional services
+2018-09-13 20:18:21,827 - org.apache.log4j.Logger -INFO - Additional services page is displayed
+2018-09-13 20:18:21,830 - org.apache.log4j.Logger -INFO - Seats additional service verification
+2018-09-13 20:18:21,949 - org.apache.log4j.Logger -INFO - Additional service tile check++++++++++++++++++++++++++++++++++++++++++true
+2018-09-13 20:18:21,989 - org.apache.log4j.Logger -INFO - Seats additional service verification
+2018-09-13 20:18:22,088 - org.apache.log4j.Logger -INFO - Additional service tile check++++++++++++++++++++++++++++++++++++++++++true
+2018-09-13 20:18:36,913 - org.apache.log4j.Logger -INFO - Seats selection is possibletrue
+2018-09-13 20:18:36,924 - org.apache.log4j.Logger -INFO - packit-seatmap-cell tipso_style packit-free-seatin foreach loop::0
+2018-09-13 20:18:36,925 - org.apache.log4j.Logger -INFO - [[ChromeDriver: chrome on XP (967e910e7399995eceb31d00acea2086)] -> xpath: //li/a[contains(@class,'packit-seatmap-cell tipso_style')]]+++++++0
+2018-09-13 20:18:36,963 - org.apache.log4j.Logger -INFO - in foreach loop::0
+2018-09-13 20:18:36,978 - org.apache.log4j.Logger -INFO - 17Ain foreach loop::0
+2018-09-13 20:18:39,666 - org.apache.log4j.Logger -INFO - Green check is displayed ::true
+2018-09-13 20:18:39,667 - org.apache.log4j.Logger -INFO - Green check is displayed on additional service boxtrue
+2018-09-13 20:18:58,078 - org.apache.log4j.Logger -INFO - loader is closed after 7Seconds
+2018-09-13 20:18:58,176 - org.apache.log4j.Logger -INFO - Packit payment page header text is: +++++++++++++++++++++++++++[[ChromeDriver: chrome on XP (967e910e7399995eceb31d00acea2086)] -> xpath: //span[contains(text(),'Payment')]]
+2018-09-13 20:18:58,230 - org.apache.log4j.Logger -INFO - Payment page is displayed
+2018-09-13 20:18:58,313 - org.apache.log4j.Logger -INFO - Packit payment page header text is: +++++++++++++++++++++++++++[[ChromeDriver: chrome on XP (967e910e7399995eceb31d00acea2086)] -> xpath: //span[contains(text(),'Payment')]]
+2018-09-13 20:18:58,352 - org.apache.log4j.Logger -INFO - Payment page is displayed
+2018-09-13 20:19:08,441 - org.apache.log4j.Logger -INFO - Agent Markup3 auto update popup is not displayed
+2018-09-13 20:19:08,645 - org.apache.log4j.Logger -INFO - [[ChromeDriver: chrome on XP (967e910e7399995eceb31d00acea2086)] -> xpath: //div[@name='formOfPayments']/div/div/div[1]/span] is available
+2018-09-13 20:19:25,228 - org.apache.log4j.Logger -INFO - loader is closed after 5Seconds
+2018-09-13 20:19:27,178 - org.apache.log4j.Logger -INFO - sum of paxwise details1478.81
+2018-09-13 20:19:27,179 - org.apache.log4j.Logger -INFO - priceTableTotal1478.81
+2018-09-13 20:19:37,256 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:19:37,258 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:19:37,940 - org.apache.log4j.Logger -INFO - Entered AM3=60
+2018-09-13 20:19:48,879 - org.apache.log4j.Logger -INFO - Agent Markup3 auto update popup is not displayed
+2018-09-13 20:20:00,948 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-09-13 20:20:02,625 - org.apache.log4j.Logger -INFO - sum of paxwise details1538.81
+2018-09-13 20:20:02,625 - org.apache.log4j.Logger -INFO - priceTableTotal1538.81
+2018-09-13 20:20:12,696 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:20:12,696 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:20:13,428 - org.apache.log4j.Logger -INFO - Method1 enabled  :true
+2018-09-13 20:20:13,464 - org.apache.log4j.Logger -INFO - Method1 enabled  :false
+2018-09-13 20:20:23,510 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:20:23,511 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:20:23,551 - org.apache.log4j.Logger -INFO - Method1 enabled  :true
+2018-09-13 20:20:23,582 - org.apache.log4j.Logger -INFO - Method1 enabled  :false
+2018-09-13 20:20:23,583 - org.apache.log4j.Logger -INFO - Methods cannot be switched
+2018-09-13 20:20:35,679 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-09-13 20:20:37,057 - org.apache.log4j.Logger -INFO - sum of paxwise details1538.81
+2018-09-13 20:20:37,058 - org.apache.log4j.Logger -INFO - priceTableTotal1538.81
+2018-09-13 20:20:47,125 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:20:47,125 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:20:47,835 - org.apache.log4j.Logger -INFO - Credit card field is displaying correctlytrue
+2018-09-13 20:21:08,858 - org.apache.log4j.Logger -INFO - loader is closed after 10Seconds
+2018-09-13 20:21:18,920 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:21:18,920 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:21:20,197 - org.apache.log4j.Logger -INFO - sum of paxwise details1546.21
+2018-09-13 20:21:20,198 - org.apache.log4j.Logger -INFO - priceTableTotal1546.21
+2018-09-13 20:21:30,233 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:21:30,234 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:21:30,346 - org.apache.log4j.Logger -INFO - Method1Total1546.21
+2018-09-13 20:21:30,347 - org.apache.log4j.Logger -INFO - Pricetable calculation is verified when cc payment is selected with Method1
+2018-09-13 20:21:30,416 - org.apache.log4j.Logger -INFO - Method1 enabled  :true
+2018-09-13 20:21:30,453 - org.apache.log4j.Logger -INFO - Method1 enabled  :false
+2018-09-13 20:21:40,486 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:21:40,486 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:21:40,538 - org.apache.log4j.Logger -INFO - Method1 enabled  :true
+2018-09-13 20:21:40,585 - org.apache.log4j.Logger -INFO - Method1 enabled  :false
+2018-09-13 20:21:40,586 - org.apache.log4j.Logger -INFO - Methods cannot be switched
+2018-09-13 20:21:52,654 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-09-13 20:22:02,712 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:22:02,713 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:22:04,303 - org.apache.log4j.Logger -INFO - sum of paxwise details1546.21
+2018-09-13 20:22:04,303 - org.apache.log4j.Logger -INFO - priceTableTotal1546.21
+2018-09-13 20:22:14,371 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:22:14,372 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:22:14,514 - org.apache.log4j.Logger -INFO - Method1Total1546.21
+2018-09-13 20:22:14,515 - org.apache.log4j.Logger -INFO - Pricetable calculation is verified when cc payment is selected with Method1
+2018-09-13 20:22:14,598 - org.apache.log4j.Logger -INFO - Credit card field is displaying correctlytrue
+2018-09-13 20:22:38,720 - org.apache.log4j.Logger -INFO - loader is closed after 13Seconds
+2018-09-13 20:22:48,748 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:22:48,749 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:22:50,174 - org.apache.log4j.Logger -INFO - sum of paxwise details1546.21
+2018-09-13 20:22:50,174 - org.apache.log4j.Logger -INFO - priceTableTotal1546.21
+2018-09-13 20:23:00,227 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:23:00,228 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:23:00,403 - org.apache.log4j.Logger -INFO - Method1Total1546.21
+2018-09-13 20:23:00,404 - org.apache.log4j.Logger -INFO - Pricetable calculation is verified when cc payment is selected with Method1
+2018-09-13 20:23:00,476 - org.apache.log4j.Logger -INFO - Method1 enabled  :true
+2018-09-13 20:23:00,510 - org.apache.log4j.Logger -INFO - Method1 enabled  :false
+2018-09-13 20:23:10,606 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:23:10,607 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:23:10,679 - org.apache.log4j.Logger -INFO - Method1 enabled  :true
+2018-09-13 20:23:10,718 - org.apache.log4j.Logger -INFO - Method1 enabled  :false
+2018-09-13 20:23:10,718 - org.apache.log4j.Logger -INFO - Methods cannot be switched
+2018-09-13 20:54:35,376 - org.apache.log4j.Logger -INFO - Site Is Opened
+2018-09-13 20:54:35,919 - org.apache.log4j.Logger -INFO - user name is entered
+2018-09-13 20:54:41,661 - org.apache.log4j.Logger -INFO - session id is9md6toov073s7bsn5sl9nkvs9q
+2018-09-13 20:54:43,354 - org.apache.log4j.Logger -INFO - Changed the language to English
+2018-09-13 20:54:43,902 - org.apache.log4j.Logger -INFO - session id is9md6toov073s7bsn5sl9nkvs9q
+2018-09-13 20:54:44,076 - org.apache.log4j.Logger -INFO - session id is9md6toov073s7bsn5sl9nkvs9q
+2018-09-13 20:54:45,171 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (2f22abe643bac75df094381aa3866604)] -> xpath: (//input[@name='airport'])[1]] is 136
+2018-09-13 20:54:45,294 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (2f22abe643bac75df094381aa3866604)] -> xpath: (//input[@name='airport'])[1]] is 60
+2018-09-13 20:54:49,483 - org.apache.log4j.Logger -INFO - session id is9md6toov073s7bsn5sl9nkvs9q
+2018-09-13 20:54:50,223 - org.apache.log4j.Logger -INFO - email address is by new parser method:+++++++++++++ tarife@aer.at
+2018-09-13 20:54:50,224 - org.apache.log4j.Logger -INFO - email address is by new parser method2:+++++++++++++ tarife@aer.at
+2018-09-13 20:55:06,279 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-09-13 20:55:07,252 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (2f22abe643bac75df094381aa3866604)] -> xpath: //img[@title='Later']] is 708
+2018-09-13 20:55:07,573 - org.apache.log4j.Logger -INFO - Farerules icon is  identified
+2018-09-13 20:55:17,593 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (2f22abe643bac75df094381aa3866604)] -> xpath: //div[@class='packit-close-block']/button] is 8018
+2018-09-13 20:55:28,037 - org.apache.log4j.Logger -INFO - Number of filters available are : ++++++14
+2018-09-13 20:55:28,727 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (2f22abe643bac75df094381aa3866604)] -> xpath: //img[@title='Later']] is 342
+2018-09-13 20:55:28,867 - org.apache.log4j.Logger -INFO - Requested filter option is not available
+2018-09-13 20:55:30,944 - org.apache.log4j.Logger -INFO - offer price details list is :[1478.81, 3071.24, 3071.24, 3104.37]
+2018-09-13 20:55:30,945 - org.apache.log4j.Logger -INFO - offer price details list is :[1478.81, 3071.24, 3071.24, 3104.37]
+2018-09-13 20:55:30,946 - org.apache.log4j.Logger -INFO - offer price details list is :[1478.81, 3071.24, 3071.24, 3104.37]
+2018-09-13 20:55:30,946 - org.apache.log4j.Logger -INFO - Flight results are sorted in price ascending order
+2018-09-13 20:55:32,655 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (2f22abe643bac75df094381aa3866604)] -> xpath: (//a/span[text()='Show price breakdown'])[1]] is 1084
+2018-09-13 20:55:33,678 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (2f22abe643bac75df094381aa3866604)] -> xpath: (//span[text()='Show more'])[1]] is 510
+2018-09-13 20:55:34,889 - org.apache.log4j.Logger -INFO - column wise sum is matching with the paxwise total and paxwise total is: 1478.81
+2018-09-13 20:55:34,889 - org.apache.log4j.Logger -INFO - paxwise total is: 1478.81
+2018-09-13 20:55:34,889 - org.apache.log4j.Logger -INFO - price table total is: 1478.81
+2018-09-13 20:55:34,890 - org.apache.log4j.Logger -INFO - Paxwise total verification in Results page+++++++++++1478.81
+2018-09-13 20:55:36,447 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (2f22abe643bac75df094381aa3866604)] -> xpath: (//div[@class='packit-filter-item-buttons']/div/div[1]/a/span)[1]] is 932
+2018-09-13 20:55:38,932 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-09-13 20:55:49,009 - org.apache.log4j.Logger -INFO - alternatives display exception checkfalse
+2018-09-13 20:55:51,455 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-09-13 20:56:01,513 - org.apache.log4j.Logger -INFO - alternatives display exception checkfalse
+2018-09-13 20:56:03,945 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-09-13 20:56:14,004 - org.apache.log4j.Logger -INFO - alternatives display exception checkfalse
+2018-09-13 20:56:16,466 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-09-13 20:56:16,527 - org.apache.log4j.Logger -INFO - Details page is displayed
+2018-09-13 20:56:16,729 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (2f22abe643bac75df094381aa3866604)] -> xpath: //div[3]/div[1]/div/div/div[1]/ul/li[9]/a[1]/span] is 125
+2018-09-13 20:56:18,097 - org.apache.log4j.Logger -INFO - column wise sum is matching with the paxwise total and paxwise total is: 1478.81
+2018-09-13 20:56:18,098 - org.apache.log4j.Logger -INFO - paxwise total is: 1478.81
+2018-09-13 20:56:18,098 - org.apache.log4j.Logger -INFO - price table total is: 1478.81
+2018-09-13 20:56:18,098 - org.apache.log4j.Logger -INFO - Paxwise total verification in Results page+++++++++++1478.81
+2018-09-13 20:56:20,205 - org.apache.log4j.Logger -INFO - Total Time for loading element- [[ChromeDriver: chrome on XP (2f22abe643bac75df094381aa3866604)] -> xpath: //form[@name='passengerDataFormMain']/div[2]/div/div/input] is 213
+2018-09-13 20:56:22,217 - org.apache.log4j.Logger -INFO - Additional services page header text is: +++++++++++++++++++++++++++Additional services
+2018-09-13 20:56:22,250 - org.apache.log4j.Logger -INFO - Additional services page is displayed
+2018-09-13 20:56:22,275 - org.apache.log4j.Logger -INFO - ZZf additional service verification
+2018-09-13 20:56:32,323 - org.apache.log4j.Logger -INFO - Additional service is not available
+2018-09-13 20:56:32,323 - org.apache.log4j.Logger -INFO - Additional service tile check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:56:42,359 - org.apache.log4j.Logger -INFO - Additional service is not available
+2018-09-13 20:56:42,360 - org.apache.log4j.Logger -INFO - Additional service tile check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:56:42,360 - org.apache.log4j.Logger -INFO - ZZF is not possible
+2018-09-13 20:56:42,888 - org.apache.log4j.Logger -INFO - Additional services page header text is: +++++++++++++++++++++++++++Additional services
+2018-09-13 20:56:42,924 - org.apache.log4j.Logger -INFO - Additional services page is displayed
+2018-09-13 20:56:42,926 - org.apache.log4j.Logger -INFO - Seats additional service verification
+2018-09-13 20:56:43,025 - org.apache.log4j.Logger -INFO - Additional service tile check++++++++++++++++++++++++++++++++++++++++++true
+2018-09-13 20:56:43,051 - org.apache.log4j.Logger -INFO - Seats additional service verification
+2018-09-13 20:56:43,117 - org.apache.log4j.Logger -INFO - Additional service tile check++++++++++++++++++++++++++++++++++++++++++true
+2018-09-13 20:56:58,294 - org.apache.log4j.Logger -INFO - Seats selection is possibletrue
+2018-09-13 20:56:58,303 - org.apache.log4j.Logger -INFO - packit-seatmap-cell tipso_style packit-free-seatin foreach loop::0
+2018-09-13 20:56:58,303 - org.apache.log4j.Logger -INFO - [[ChromeDriver: chrome on XP (2f22abe643bac75df094381aa3866604)] -> xpath: //li/a[contains(@class,'packit-seatmap-cell tipso_style')]]+++++++0
+2018-09-13 20:56:58,335 - org.apache.log4j.Logger -INFO - in foreach loop::0
+2018-09-13 20:56:58,348 - org.apache.log4j.Logger -INFO - 17Ain foreach loop::0
+2018-09-13 20:57:01,084 - org.apache.log4j.Logger -INFO - Green check is displayed ::true
+2018-09-13 20:57:01,085 - org.apache.log4j.Logger -INFO - Green check is displayed on additional service boxtrue
+2018-09-13 20:57:28,454 - org.apache.log4j.Logger -INFO - loader is closed after 16Seconds
+2018-09-13 20:57:28,588 - org.apache.log4j.Logger -INFO - Packit payment page header text is: +++++++++++++++++++++++++++[[ChromeDriver: chrome on XP (2f22abe643bac75df094381aa3866604)] -> xpath: //span[contains(text(),'Payment')]]
+2018-09-13 20:57:28,642 - org.apache.log4j.Logger -INFO - Payment page is displayed
+2018-09-13 20:57:28,723 - org.apache.log4j.Logger -INFO - Packit payment page header text is: +++++++++++++++++++++++++++[[ChromeDriver: chrome on XP (2f22abe643bac75df094381aa3866604)] -> xpath: //span[contains(text(),'Payment')]]
+2018-09-13 20:57:28,759 - org.apache.log4j.Logger -INFO - Payment page is displayed
+2018-09-13 20:57:38,792 - org.apache.log4j.Logger -INFO - Agent Markup3 auto update popup is not displayed
+2018-09-13 20:57:38,955 - org.apache.log4j.Logger -INFO - [[ChromeDriver: chrome on XP (2f22abe643bac75df094381aa3866604)] -> xpath: //div[@name='formOfPayments']/div/div/div[1]/span] is available
+2018-09-13 20:57:55,694 - org.apache.log4j.Logger -INFO - loader is closed after 5Seconds
+2018-09-13 20:57:57,178 - org.apache.log4j.Logger -INFO - sum of paxwise details1478.81
+2018-09-13 20:57:57,178 - org.apache.log4j.Logger -INFO - priceTableTotal1478.81
+2018-09-13 20:58:07,231 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:58:07,232 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:58:07,750 - org.apache.log4j.Logger -INFO - Entered AM3=60
+2018-09-13 20:58:18,497 - org.apache.log4j.Logger -INFO - Agent Markup3 auto update popup is not displayed
+2018-09-13 20:58:30,570 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-09-13 20:58:31,722 - org.apache.log4j.Logger -INFO - sum of paxwise details1538.81
+2018-09-13 20:58:31,722 - org.apache.log4j.Logger -INFO - priceTableTotal1538.81
+2018-09-13 20:58:41,771 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:58:41,771 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:58:42,350 - org.apache.log4j.Logger -INFO - Method1 enabled  :true
+2018-09-13 20:58:42,389 - org.apache.log4j.Logger -INFO - Method1 enabled  :false
+2018-09-13 20:58:52,457 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:58:52,457 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:58:52,497 - org.apache.log4j.Logger -INFO - Method1 enabled  :true
+2018-09-13 20:58:52,530 - org.apache.log4j.Logger -INFO - Method1 enabled  :false
+2018-09-13 20:58:52,531 - org.apache.log4j.Logger -INFO - Methods cannot be switched
+2018-09-13 20:59:04,582 - org.apache.log4j.Logger -INFO - loader is closed after 2Seconds
+2018-09-13 20:59:05,891 - org.apache.log4j.Logger -INFO - sum of paxwise details1538.81
+2018-09-13 20:59:05,891 - org.apache.log4j.Logger -INFO - priceTableTotal1538.81
+2018-09-13 20:59:15,953 - org.apache.log4j.Logger -INFO - No Footnote will be shown as credit card number is validated
+2018-09-13 20:59:15,954 - org.apache.log4j.Logger -INFO - FootNote check++++++++++++++++++++++++++++++++++++++++++false
+2018-09-13 20:59:16,614 - org.apache.log4j.Logger -INFO - Credit card field is displaying correctlytrue
