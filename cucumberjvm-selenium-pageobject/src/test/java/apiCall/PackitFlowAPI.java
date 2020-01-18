@@ -40,7 +40,7 @@ public class PackitFlowAPI {
 	   {
 		   driver=Hooks.driver;
 	   }
-	   static String apiEnvironment = "https://aerpackitstage.flightconex.de/redbox/api/";
+	   static String apiEnvironment = "https://endpointURL";
 	   
 	   //Global variables
 	   static  String calculationoptionIs;
